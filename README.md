@@ -3,7 +3,7 @@ MCP for All is an open-source initiative that curates essential tools, tutorials
 
 In the context of AI, the Model Context Protocol enables language models and intelligent agents to securely interact with external resources such as files, APIs, databases, and services. By providing standardized server implementations and context-aware integration, MCP extends the capabilities of AI systems beyond static prompts — unlocking dynamic, real-world applications and autonomous decision-making in a secure and modular way.
 
-![](assets/llm-repo.webp)
+![](assets/mcp-all.png)
 
 ## 🌍 Key Initiative: AI for All
 
