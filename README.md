@@ -802,3 +802,64 @@ Now Claude can answer questions about writing MCP servers and how they work
 - https://www.reddit.com/r/ClaudeAI/comments/1h3g01r/want_to_ask_claude_about_model_context_protocol/
 
 
+## Contributing
+
+💡 Contributions are welcome!  
+
+Feel free to submit a pull request, suggest a new resource, or [open an issue](https://github.com/drdebashisdutta/MCP-for-All/issues/new). 
+
+Make sure your submissions align with the following guidelines:
+
+- Relevance to MCP (e.g. category – enabling AI models to interact with tools and data via MCP, building MCP-compatible applications, extending model capabilities through protocol-based integration)
+- Clear documentation and accessibility (e.g. name + link + 1 sentence description).
+
+---
+
+## Spread the Word
+
+📢 Help us grow the **MCP for All** community by sharing this repo with your network! 
+
+You can star the repo, and share on LinkedIn and/or Twitter. 
+
+More info on how to do this below.
+
+### ⭐ Star the repo ⭐
+⭐ **Why Star This Repository?**  
+Your star helps others find this valuable resource! By starring, you:  
+- Support the LLMMCP community.  
+- Gain access to the freshest content updated **every 24 hours**.  
+- Inspire others to dive into the world of MCPs.  
+
+Let’s make AI for ALL! 🌟 
+
+### 🙏 Credits
+
+This project was inspired in part by [punkpeye's awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) repository. Big thanks for curating such a valuable list of LLNs and resources!
+
+
+### LinkedIn
+Share on LinkedIn with this simple post:
+
+> 🚀 **LLmMCP for All** - A curated collection of cutting-edge tools, resources, and inspiring projects in the world of MCPs. Open-source, community-driven, and ready to help spread AI for All! 
+> 🔗 [Check it out here!](https://github.com/drdebashisdutta/MCP-for-All)  
+> #AI #MachineLearning #Automation #OpenSource #ArtificialIntelligence #DataScience #Innovation
+
+[Click here to share on LinkedIn!](https://www.linkedin.com/sharing/share-offsite/?url=https://github.com/drdebashisdutta/MCP-for-All)
+
+### Twitter
+Tweet this to share on Twitter:
+
+> 🚀 Discover the **MCP for All** repo! 🔗 A curated collection of Model Context Protocol (MCP) resources for tool use, API access, secure context integration, and intelligent agent workflows! Open-source & community-driven! 🌟
+
+ 🌟  
+> 🔗 [Check it out here!](https://github.com/drdebashisdutta/MCP-for-All)  
+> #AI #MachineLearning #Automation #OpenSource #ArtificialIntelligence #Innovation
+
+[Click here to tweet!](https://twitter.com/intent/tweet?text=Explore%20the%20MCP%20for%20All%20repo%21%20A%20curated%20collection%20of%20Model%20Context%20Protocol%20tools%2C%20projects%2C%20datasets%2C%20and%20learning%20resources.%20Open-source%20%26%20community-driven%20for%20everyone%21%20%F0%9F%94%A5%20Check%20it%20out%3A%20https%3A%2F%2Fgithub.com%2Fdrdebashisdutta%2FMCP-for-All)
+
+## License
+
+📜 This repository is licensed under the [Apache 2.0](LICENSE).  
+
+Proudly open source to benefit the larger community, feel free to fork and extend!
+
